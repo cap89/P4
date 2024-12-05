@@ -1,6 +1,9 @@
 body{
-background-color: #D1E5F4
+background-color: #D1E5F4;
 }
 .form-group{
-  background-color:#f5f5dc
+  background-color:#f5f5dc;
+}
+footer{
+  text-align:center;
 }
