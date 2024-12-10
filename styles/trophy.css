@@ -8,7 +8,8 @@ body{
 .container {
   padding: 2px 16px;
   background-color: rgb(86,86,86);
-  font-color: rgb(173,216,230)
+  font-color: rgb(173,216,230);
+  text-align: center;
 }
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
