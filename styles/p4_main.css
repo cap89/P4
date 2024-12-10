@@ -4,3 +4,9 @@ header{
 body{
   background-color:#D1E5F4;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
