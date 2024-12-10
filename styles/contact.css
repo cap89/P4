@@ -1,3 +1,15 @@
+
+@media only screen and (max-width: 645px){
+  header{
+    text-align: center;
+    font-size: 75%;
+  }
+  body{
+    font-size:75%;
+  }
+}
+
+
 body{
 background-color: #D1E5F4;
 }
