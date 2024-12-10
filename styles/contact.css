@@ -9,19 +9,20 @@
   }
 }
 
-header{
-  background-color: #D1E5F4
-}
+
 body{
 background-color: #D1E5F4;
 }
 .form-group{
   background-color:#f5f5dc;
 }
-.footer{
+footer{
   position:fixed;
   text-align:center;
   padding:20px;
   width:100%;
   background-color:#D1E5F4;
+}
+footer .text-muted{
+  text-align:center;
 }
