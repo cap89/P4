@@ -1,4 +1,6 @@
-
+body{
+  background-color:light blue;
+}
 .container {
   padding: 2px 16px;
   background-color: rgb(86,86,86);
